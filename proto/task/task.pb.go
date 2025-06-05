@@ -544,7 +544,7 @@ const file_proto_task_task_proto_rawDesc = "" +
 	"UpdateTask\x12\x17.task.UpdateTaskRequest\x1a\x18.task.UpdateTaskResponse\x12?\n" +
 	"\n" +
 	"DeleteTask\x12\x17.task.DeleteTaskRequest\x1a\x18.task.DeleteTaskResponse\x12<\n" +
-	"\tListTasks\x12\x16.task.ListTasksRequest\x1a\x17.task.ListTasksResponseB/Z-github.com/your-org/project-protos/proto/taskb\x06proto3"
+	"\tListTasks\x12\x16.task.ListTasksRequest\x1a\x17.task.ListTasksResponseB.Z,github.com/nkvn-st/project-protos/proto/taskb\x06proto3"
 
 var (
 	file_proto_task_task_proto_rawDescOnce sync.Once
